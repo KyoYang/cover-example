@@ -1,0 +1,16 @@
+{
+  "name": "cover-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "csv.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "istanbul": "^0.3.15",
+    "mocha": "^2.2.5"
+  }
+}
